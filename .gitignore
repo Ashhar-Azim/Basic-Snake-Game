@@ -1,0 +1,29 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Build files
+dist/
+out/
+
+# Package files
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Compiled files
+*.min.js
+
+# Editor/IDE specific files
+.vscode/
+.idea/
