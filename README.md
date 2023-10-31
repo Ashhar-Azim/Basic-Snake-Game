@@ -35,6 +35,3 @@ To run the game, simply open the `index.html` file in a web browser.
 
 This project is for educational purposes and serves as a basic implementation of a Snake game in JavaScript and HTML5 Canvas.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
